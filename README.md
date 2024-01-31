@@ -1,8 +1,19 @@
 # AJouPARKING
 
-### 개발 기간 : 23.11.22 ~ 12.12 (3주)
+8조 프로젝트 최종 결과물
+프로젝트명: AJou PARKING
+제출일자 : 2023-12-08
+팀원: 백승진(프론트, 백엔드), 이승우(백엔드)
 
-### 개발 팀원 : 백승진(백엔드, 프론트), 이승우(백엔드)
+보고서 : 데이터베이스_결과보고서_8조.docx
+소스코드 : server2-main.zip
+프로젝트에서 사용한 데이터 : PARKING_INFO_TB_exprot.csv
+ppt : AjouParking발표자료_최종.pptx
+깃허브 조직 주소 : https://github.com/DB-ajou-parking/server2
+
+
+
+
 
 ### 시스템 아키텍쳐
 <img width="578" alt="시스템아키텍쳐" src="https://github.com/DB-ajou-parking/server2/assets/89715722/8068fcbd-cff8-4cc4-9c05-230bbb31656a">
