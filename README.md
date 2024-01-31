@@ -1,19 +1,14 @@
-# AJouPARKING
+# 프로젝트명: AJouPARKING
 
-8조 프로젝트 최종 결과물
-프로젝트명: AJou PARKING
-제출일자 : 2023-12-08
-팀원: 백승진(프론트, 백엔드), 이승우(백엔드)
+기존 주차장 정보 제공 서비스에서 더 나아가 더욱 상세하고 풍부한 사용자경험 위주의 정보를 제공하고자 한다. 이를 위해, 기존 주차장 정보 제공 서비스의 기능을 유지 한 채 만족도 시각화 그래프, 리뷰 기능 등 다양한 사용자 친화적 기능을 도입하였고, 사용자의 적극적인 참여를 위한 사용자의 티어, 랭킹 기능을 도입하였다.
 
-보고서 : 데이터베이스_결과보고서_8조.docx
-소스코드 : server2-main.zip
-프로젝트에서 사용한 데이터 : PARKING_INFO_TB_exprot.csv
-ppt : AjouParking발표자료_최종.pptx
-깃허브 조직 주소 : https://github.com/DB-ajou-parking/server2
+#### 개발 기간 : 23.11.22 ~ 12.12 (3주)
+#### 팀원: 백승진(프론트, 백엔드), 이승우(백엔드)
+#### 보고서 : 데이터베이스_결과보고서_8조.docx
+#### 프로젝트에서 사용한 데이터 : PARKING_INFO_TB_exprot.csv(공공데이터 포탈)
+#### ppt : AjouParking발표자료_최종.pptx
 
-
-
-
+<br>
 
 ### 시스템 아키텍쳐
 <img width="578" alt="시스템아키텍쳐" src="https://github.com/DB-ajou-parking/server2/assets/89715722/8068fcbd-cff8-4cc4-9c05-230bbb31656a">
