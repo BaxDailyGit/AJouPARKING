@@ -16,7 +16,7 @@
 ![릴레이션스키마 drawio](https://github.com/DB-ajou-parking/server2/assets/89715722/52da80d4-a643-4e7b-befd-4ae2e66cddeb)
 
 ### ER모델/ERD
-![데베ER모델 drawio](https://github.com/DB-ajou-parking/server2/assets/89715722/ccb9268f-5d6b-4936-aa8f-8aebf6024c5d)
+![image](https://github.com/BaxDailyGit/AJouPARKING/assets/99312529/d0362003-1bd6-4754-b53f-c18150e60575)
 ![ERD](https://github.com/DB-ajou-parking/server2/assets/89715722/42cb7126-2424-4953-a263-facf83075cb4)
 
 ### 데이터 수집 및 가공
