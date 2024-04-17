@@ -2,7 +2,7 @@
 ![image](https://github.com/BaxDailyGit/AJouPARKING/assets/99312529/98f203a0-6373-44f8-b3a3-4efe36149a9c)
 #### 개발 기간 : 2023.11.22 ~ 2023.12.12 (3주)
 #### 팀원: 백승진(프론트, 백엔드), 이승우(백엔드)
-#### 프로젝트에서 사용한 데이터 : PARKING_INFO_TB_exprot.csv(공공데이터 포탈)
+#### 사용한 데이터 : PARKING_INFO_TB_exprot.csv(공공데이터 포탈)
 
 <br>
 
